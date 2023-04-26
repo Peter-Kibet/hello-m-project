@@ -96,6 +96,10 @@ In order to run this project you need: Visual Studio Code, Node.js, npm, and Pos
 
 Clone this repository to your desired folder: <https://github.com/Peter-Kibet/Hello-Microverse-Project.git>
 
+### Install
+
+Install this project with: npm install.
+
 ### Usage
 
 To run the project, execute the following command:
